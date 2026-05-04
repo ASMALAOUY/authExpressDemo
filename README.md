@@ -18,13 +18,17 @@ Projet d'authentification complet avec **Node.js**, **Express**, **MongoDB**, ut
 
 ---
 ## demo dans Postman
+### /register-session
 <img width="898" height="840" alt="image" src="https://github.com/user-attachments/assets/be327d79-d925-4865-bb13-53333c0efb87" />
-
+### /login-session
 <img width="885" height="880" alt="image" src="https://github.com/user-attachments/assets/5d51c3f4-f3dc-477e-90f5-d831cacd2b0d" />
+### /register-jwt
 <img width="892" height="820" alt="image" src="https://github.com/user-attachments/assets/74940b67-9a11-4d9a-8e32-641b414348f7" />
+### /login-jwt
 <img width="942" height="920" alt="image" src="https://github.com/user-attachments/assets/8edaa970-6f2b-443f-81ff-a7e8c1a4ee65" />
+### /profile-jwt
 <img width="924" height="927" alt="image" src="https://github.com/user-attachments/assets/4f5144e3-737b-4399-99d1-8981f550d542" />
-
+### /logout-jwt
 
 <img width="880" height="951" alt="image" src="https://github.com/user-attachments/assets/ffb4e505-e676-4e7a-b728-77118563e48a" />
 
