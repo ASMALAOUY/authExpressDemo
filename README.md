@@ -78,20 +78,7 @@ npm install
 
 ---
 
-## ⚙️ Configuration
 
-Créez un fichier `.env` à la racine du projet :
-
-```env
-PORT=3000
-MONGODB_URI=mongodb://localhost:27017/auth_demo
-NODE_ENV=development
-SESSION_SECRET=votre_secret_de_session_tres_securise
-JWT_SECRET=votre_secret_jwt_tres_securise
-JWT_EXPIRY=15m
-REFRESH_TOKEN_SECRET=votre_secret_refresh_token_tres_securise
-REFRESH_TOKEN_EXPIRY=7d
-```
 
 > ⚠️ **Important :** Ne commitez jamais votre fichier `.env`. Il est déjà ajouté au `.gitignore`.
 
